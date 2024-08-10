@@ -1,3 +1,2 @@
 # commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+Sanskar Pareek learing github amazing..
